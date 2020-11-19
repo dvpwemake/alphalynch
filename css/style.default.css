@@ -1161,6 +1161,7 @@ img.bg-image {
 
 .btn-link:focus, .btn-link.focus {
   text-decoration: underline;
+  color: #6c757d
 }
 
 .btn-link:disabled, .btn-link.disabled {
@@ -1738,7 +1739,7 @@ body {
 }
 
 a {
-  color: #ff3f3f;
+  color: #f8f9fa;
   text-decoration: none;
 }
 
